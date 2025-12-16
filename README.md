@@ -44,11 +44,11 @@ Le modèle n'utilise pas de RNN (LSTM/GRU) mais repose entièrement sur l'attent
 
 ## 📈 Performances et Résultats
 
-* **Accuracy (Test)** : ~87% (ajustez selon vos résultats réels).
+* **Accuracy (Test)** : ~89%.
 * **Observations** : Le modèle distingue très bien les émotions à forte valence (Joie vs Colère) mais peut présenter des confusions sur des nuances sémantiques proches (ex: Tristesse vs Peur).
 
-*(Vous pouvez insérer ici l'image de votre matrice de confusion si vous l'avez exportée)*
-`![Confusion Matrix](path_to_image/confusion_matrix.png)`
+
+`![Confusion Matrix](Matrice_confusion.png)`
 
 ## 🛠️ Installation et Utilisation
 
