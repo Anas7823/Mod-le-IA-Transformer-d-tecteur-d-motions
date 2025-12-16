@@ -48,7 +48,7 @@ Le modèle n'utilise pas de RNN (LSTM/GRU) mais repose entièrement sur l'attent
 * **Observations** : Le modèle distingue très bien les émotions à forte valence (Joie vs Colère) mais peut présenter des confusions sur des nuances sémantiques proches (ex: Tristesse vs Peur).
 
 
-`![Confusion Matrix](Matrice_confusion.png)`
+`![Confusion Matrix](./Matrice_confusion.png)`
 
 ## 🛠️ Installation et Utilisation
 
